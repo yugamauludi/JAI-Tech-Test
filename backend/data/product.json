@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Camera EOS 200D II (EF-S 18-55mm f/4-5.6 IS STM)",
+        "imgUrl": "https://id.canon/media/image/2019/04/10/bc342d12af8c417393a4f78e4c10955e_EOS+200D+MKII+BK+Front.png",
+        "quantity": 17,
+        "price": 13499000
+    },
+    {
+        "name": "Kulkas LG GN-Y331SLS",
+        "imgUrl": "https://www.lg.com/id/images/kulkas/md07578655/gallery/D-01.jpg",
+        "quantity": 5,
+        "price": 7000000
+    },
+    {
+        "name": "Mesin Cuci Samsung WA70H4000SG",
+        "imgUrl": "https://p-id.ipricegroup.com/uploaded_0417563b57c974ebdbd2c9a4526cf6d5.jpg",
+        "quantity": 8,
+        "price": 5200000
+    },
+    {
+        "name": "Drone DJI Avata ",
+        "imgUrl": "https://p-id.ipricegroup.com/uploaded_f1fec4d948bac0b205e0080f820fff16a78c084a.jpg",
+        "quantity": 3,
+        "price": 60000000
+    },
+    {
+        "name": "Harman Kardon Onyx Studio 5",
+        "imgUrl": "https://p-id.ipricegroup.com/uploaded_078145dfd9dd94367cb75ec4e7210b7a38addb19.jpg",
+        "quantity": 50,
+        "price": 5000000
+    },
+    {
+        "name": "Xiaomi TV A2",
+        "imgUrl": "https://p-id.ipricegroup.com/uploaded_af48747e035c2b7ff60cdbd32d3d91c1e79bc026.jpg",
+        "quantity": 35,
+        "price": 25000000
+    },
+    {
+        "name": "Philips HD1172/99",
+        "imgUrl": "https://p-id.ipricegroup.com/uploaded_915c77c6bc8b14158a1b7bbe06868621.jpg",
+        "quantity": 20,
+        "price": 11900000
+    },
+    {
+        "name": "Iphone 14",
+        "imgUrl": "https://www.apple.com/id/iphone-14/images/meta/iphone-14_specs__cjecw6jct1py_og.png?202305011857",
+        "quantity": 20,
+        "price": 11900000
+    }
+]
