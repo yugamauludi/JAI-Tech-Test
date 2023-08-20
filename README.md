@@ -58,4 +58,4 @@ Jika hal di atas sudah berhasil di-install maka jalankan perintah
 
 ```
 $ npm run dev
-```
+```# JAI-Tech-Test
